@@ -1,8 +1,4 @@
 streamlit
 yfinance
 pandas
-<<<<<<< HEAD
 plotly
-=======
-plotly
->>>>>>> 285dbcdab35093c80fa6b3088a7a4b3b0ce5ede5
